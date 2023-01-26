@@ -2,9 +2,9 @@ Yihan Xu
 NUID: 001566238
 
 # OPERATING SYSTEM AND IDE
-Operating system: MacOS Monterey
-IDE: Pycharm
-Language: Python
+- Operating system: MacOS Monterey
+- IDE: Pycharm
+- Language: Python
 
 # INSTRUCTIONS
 - The code is named linearRegression.py, in this file there is a class named HomeWork1, all the definition of functions and main executing logic is in this class.
